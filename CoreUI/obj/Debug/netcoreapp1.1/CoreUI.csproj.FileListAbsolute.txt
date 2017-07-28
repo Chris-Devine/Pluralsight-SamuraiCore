@@ -1,0 +1,13 @@
+F:\Personal\Training\Entity Framework Core - Getting Started\SamuraiCoreApp\CoreUI\bin\Debug\netcoreapp1.1\CoreUI.deps.json
+F:\Personal\Training\Entity Framework Core - Getting Started\SamuraiCoreApp\CoreUI\bin\Debug\netcoreapp1.1\CoreUI.runtimeconfig.json
+F:\Personal\Training\Entity Framework Core - Getting Started\SamuraiCoreApp\CoreUI\bin\Debug\netcoreapp1.1\CoreUI.runtimeconfig.dev.json
+F:\Personal\Training\Entity Framework Core - Getting Started\SamuraiCoreApp\CoreUI\bin\Debug\netcoreapp1.1\CoreUI.dll
+F:\Personal\Training\Entity Framework Core - Getting Started\SamuraiCoreApp\CoreUI\bin\Debug\netcoreapp1.1\CoreUI.pdb
+F:\Personal\Training\Entity Framework Core - Getting Started\SamuraiCoreApp\CoreUI\obj\Debug\netcoreapp1.1\CoreUI.csprojResolveAssemblyReference.cache
+F:\Personal\Training\Entity Framework Core - Getting Started\SamuraiCoreApp\CoreUI\obj\Debug\netcoreapp1.1\CoreUI.AssemblyInfo.cs
+F:\Personal\Training\Entity Framework Core - Getting Started\SamuraiCoreApp\CoreUI\obj\Debug\netcoreapp1.1\CoreUI.dll
+F:\Personal\Training\Entity Framework Core - Getting Started\SamuraiCoreApp\CoreUI\obj\Debug\netcoreapp1.1\CoreUI.pdb
+F:\Personal\Training\Entity Framework Core - Getting Started\SamuraiCoreApp\CoreUI\bin\Debug\netcoreapp1.1\SamuraiCoreApp.Data.dll
+F:\Personal\Training\Entity Framework Core - Getting Started\SamuraiCoreApp\CoreUI\bin\Debug\netcoreapp1.1\SamuraiCoreApp.Domain.dll
+F:\Personal\Training\Entity Framework Core - Getting Started\SamuraiCoreApp\CoreUI\bin\Debug\netcoreapp1.1\SamuraiCoreApp.Data.pdb
+F:\Personal\Training\Entity Framework Core - Getting Started\SamuraiCoreApp\CoreUI\bin\Debug\netcoreapp1.1\SamuraiCoreApp.Domain.pdb
