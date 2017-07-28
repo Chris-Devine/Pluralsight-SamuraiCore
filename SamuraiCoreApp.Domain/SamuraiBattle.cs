@@ -11,7 +11,7 @@ namespace SamuraiCoreApp.Domain
         public int SamuraiId { get; set; }
         public Samurai Samurai { get; set; }
 
-        // Two below props are need to be a one to one relationship
+        // NOTE: Two below props are need to be a one to one relationship
         public int BattleId { get; set; }
         public Battle Battle { get; set; }
     }

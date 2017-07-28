@@ -11,11 +11,11 @@ namespace SamuraiCoreApp.Data
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
-            // Create a composite key in the database using entity framework core's Fluent API
+            // NOTE: Create a composite key in the database using entity framework core's Fluent API
             modelBuilder.Entity<SamuraiBattle>()
                 .HasKey(s => new {s.BattleId, s.SamuraiId});
 
-            // Tells entity framework to enforce that the one to one relation ship is required before insert
+            // NOTE: Tells entity framework to enforce that the one to one relation ship is required before insert
             //modelBuilder.Entity<Samurai>()
             //    .Property(s => s.SecretIdentity).IsRequired();
 
@@ -27,6 +27,9 @@ namespace SamuraiCoreApp.Data
         {
             optionsBuilder.UseSqlServer(
                 "Server = (localdb)\\mssqllocaldb; Database = SamuraiCoreData; Trusted_Connection = true;");
+
+            // NOTE: This allows us to see params passed to database in the logging 
+            optionsBuilder.EnableSensitiveDataLogging();
         }
     }
 }

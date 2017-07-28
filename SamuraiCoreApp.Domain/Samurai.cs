@@ -15,7 +15,7 @@ namespace SamuraiCoreApp.Domain
         //public int BattleId { get; set; }   
         public List<SamuraiBattle> SamuraiBattles { get; set; }
 
-        // One to one (this can be null here 
+        // NOTE: One to one (this can be null here 
         public SecretIdentity SecretIdentity { get; set; }
     }
 }
