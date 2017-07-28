@@ -4,3 +4,4 @@ F:\Personal\Training\Entity Framework Core - Getting Started\SamuraiCoreApp\Samu
 F:\Personal\Training\Entity Framework Core - Getting Started\SamuraiCoreApp\SamuraiCoreApp.Domain\obj\Debug\netcoreapp1.1\SamuraiCoreApp.Domain.AssemblyInfo.cs
 F:\Personal\Training\Entity Framework Core - Getting Started\SamuraiCoreApp\SamuraiCoreApp.Domain\obj\Debug\netcoreapp1.1\SamuraiCoreApp.Domain.dll
 F:\Personal\Training\Entity Framework Core - Getting Started\SamuraiCoreApp\SamuraiCoreApp.Domain\obj\Debug\netcoreapp1.1\SamuraiCoreApp.Domain.pdb
+F:\Personal\Training\Entity Framework Core - Getting Started\SamuraiCoreApp\SamuraiCoreApp.Domain\obj\Debug\netcoreapp1.1\SamuraiCoreApp.Domain.csprojResolveAssemblyReference.cache

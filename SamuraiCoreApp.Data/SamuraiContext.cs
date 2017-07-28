@@ -9,6 +9,18 @@ namespace SamuraiCoreApp.Data
         public DbSet<Battle> Battles { get; set; }
         public DbSet<Quote> Quotes { get; set; }
 
+        protected override void OnModelCreating(ModelBuilder modelBuilder)
+        {
+            // Create a composite key in the database using entity framework core's Fluent API
+            modelBuilder.Entity<SamuraiBattle>()
+                .HasKey(s => new {s.BattleId, s.SamuraiId});
+
+            // Tells entity framework to enforce that the one to one relation ship is required before insert
+            //modelBuilder.Entity<Samurai>()
+            //    .Property(s => s.SecretIdentity).IsRequired();
+
+            base.OnModelCreating(modelBuilder);
+        }
 
         // Wrong way to to tell EF about DB but it but can be done and works
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
