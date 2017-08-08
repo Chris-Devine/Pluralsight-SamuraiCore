@@ -3025,7 +3025,7 @@
       ]
     },
     "Microsoft.EntityFrameworkCore/1.1.2": {
-      "sha512": "9FMs3+O8xJvVybVOUp57ADvwLeyJHY40mHrcSYZjj1tKZViRpYKkjEr1iUhKkYXm4nLHpbEM9eeT3u8ISnhxug==",
+      "sha512": "spcHTx0o2oXPLfJXWV+Lsitd33Ro+i+jUdfdRbqlaialOqnKzeEBhZe2aRQkEyE73ByMzHjhVRQLjh+JFQBqtg==",
       "type": "package",
       "path": "microsoft.entityframeworkcore/1.1.2",
       "files": [
@@ -3038,7 +3038,7 @@
       ]
     },
     "Microsoft.EntityFrameworkCore.Design/1.1.2": {
-      "sha512": "qyi3bG51o9NmS5Doi7lz1Qh44RyT/+a++NeW+WZzwUbMumtZnJUkRYUxt+KcaBKtaIYyXBi7uRwdOlILGHc5Og==",
+      "sha512": "4Ly9cieXt9HpjVD9PgfitgP71+rAA5aLdh8iu+ksfk/+2OfgSnAw7NHtgUQifhHNSm1PCTccw/f+U5IgZO33Yg==",
       "type": "package",
       "path": "microsoft.entityframeworkcore.design/1.1.2",
       "files": [
@@ -3051,7 +3051,7 @@
       ]
     },
     "Microsoft.EntityFrameworkCore.Relational/1.1.2": {
-      "sha512": "7PllvEWIZmLNHwPUI65Wc26wodDkRsTFCDe4c1o80KQVj8rW0Y3dI6nkhenJkvkKLdvwFUxKzpCZmIMmUVs4Iw==",
+      "sha512": "k2ZYZu8SrliQzQRwK0cPIDP9Kme6m2MRf+20/Csg3YBcL/dP8PRsNdxnJJn2kQTYiLpDkl0snPqmTgJ3zRLp5g==",
       "type": "package",
       "path": "microsoft.entityframeworkcore.relational/1.1.2",
       "files": [
@@ -3064,7 +3064,7 @@
       ]
     },
     "Microsoft.EntityFrameworkCore.Relational.Design/1.1.2": {
-      "sha512": "NfEz54yv3XP5pWja6NFBFRXdXzecv/IAfcvMeu6w65863lguB/O5bYG7sdF5qKfoyOfNdEb+r1rhKGCVvpB0pQ==",
+      "sha512": "D5t8m0Xz4Qkz0qNZd03yXreSLkS1Cw4RGyVDadRk7ROgaOVUAuLKhi2n7Vpyz7gMjSpGQjqEUomMeKZkr1kLcw==",
       "type": "package",
       "path": "microsoft.entityframeworkcore.relational.design/1.1.2",
       "files": [
@@ -3090,7 +3090,7 @@
       ]
     },
     "Microsoft.EntityFrameworkCore.Tools/1.1.1": {
-      "sha512": "quVQHgPwqdS5NmWWiZhswXuWAuOxeiwyQZfhAjY+WOcMSxq4SWfWdPONqKLp6BxpHFho1TWMio+MX/Lj6YtyOw==",
+      "sha512": "RSsD3d5G9BmtN88kgozS46Xo5HBqtNNWyzF7oZkJrk5P1hLuuOby70KowkOmYxGAMOkfv7QNEN2h6AlaKFyBhA==",
       "type": "package",
       "path": "microsoft.entityframeworkcore.tools/1.1.1",
       "files": [
@@ -4812,16 +4812,16 @@
       ]
     },
     "System.Interactive.Async/3.0.0": {
-      "sha512": "UEM+WmG1Oq0bNbPx/E1jaIQ83QOrPfVDUyuYBtG6D6DpB77ytv9flPterMujumpHuoRjSc0ilSB8w41fQc05dw==",
+      "sha512": "iyrgkZz9Dzm0fiPouQszFC3SO/46k6AYd/jG9bu+/o0AoDMaRXtlo3TIuWVNtOuJFd1noL963QouroJ0T3rImw==",
       "type": "package",
       "path": "system.interactive.async/3.0.0",
       "files": [
-        "System.Interactive.Async.3.0.0.nupkg.sha512",
-        "System.Interactive.Async.nuspec",
         "lib/net45/System.Interactive.Async.dll",
         "lib/net45/System.Interactive.Async.xml",
         "lib/netstandard1.0/System.Interactive.Async.dll",
-        "lib/netstandard1.0/System.Interactive.Async.xml"
+        "lib/netstandard1.0/System.Interactive.Async.xml",
+        "system.interactive.async.3.0.0.nupkg.sha512",
+        "system.interactive.async.nuspec"
       ]
     },
     "System.IO/4.3.0": {
@@ -8149,15 +8149,15 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\chrisdevine\\.nuget\\packages\\": {}
+    "C:\\Users\\chris\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\Personal\\Training\\Entity Framework Core - Getting Started\\SamuraiCoreApp\\CoreUI\\CoreUI.csproj",
+      "projectUniqueName": "E:\\Development\\Learning\\dotNetCore\\Pluralsight-SamuraiCore\\CoreUI\\CoreUI.csproj",
       "projectName": "CoreUI",
-      "projectPath": "F:\\Personal\\Training\\Entity Framework Core - Getting Started\\SamuraiCoreApp\\CoreUI\\CoreUI.csproj",
-      "outputPath": "F:\\Personal\\Training\\Entity Framework Core - Getting Started\\SamuraiCoreApp\\CoreUI\\obj\\",
+      "projectPath": "E:\\Development\\Learning\\dotNetCore\\Pluralsight-SamuraiCore\\CoreUI\\CoreUI.csproj",
+      "outputPath": "E:\\Development\\Learning\\dotNetCore\\Pluralsight-SamuraiCore\\CoreUI\\obj\\",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "netcoreapp1.1"
@@ -8165,11 +8165,11 @@
       "frameworks": {
         "netcoreapp1.1": {
           "projectReferences": {
-            "F:\\Personal\\Training\\Entity Framework Core - Getting Started\\SamuraiCoreApp\\SamuraiCoreApp.Data\\SamuraiCoreApp.Data.csproj": {
-              "projectPath": "F:\\Personal\\Training\\Entity Framework Core - Getting Started\\SamuraiCoreApp\\SamuraiCoreApp.Data\\SamuraiCoreApp.Data.csproj"
+            "E:\\Development\\Learning\\dotNetCore\\Pluralsight-SamuraiCore\\SamuraiCoreApp.Data\\SamuraiCoreApp.Data.csproj": {
+              "projectPath": "E:\\Development\\Learning\\dotNetCore\\Pluralsight-SamuraiCore\\SamuraiCoreApp.Data\\SamuraiCoreApp.Data.csproj"
             },
-            "F:\\Personal\\Training\\Entity Framework Core - Getting Started\\SamuraiCoreApp\\SamuraiCoreApp.Domain\\SamuraiCoreApp.Domain.csproj": {
-              "projectPath": "F:\\Personal\\Training\\Entity Framework Core - Getting Started\\SamuraiCoreApp\\SamuraiCoreApp.Domain\\SamuraiCoreApp.Domain.csproj"
+            "E:\\Development\\Learning\\dotNetCore\\Pluralsight-SamuraiCore\\SamuraiCoreApp.Domain\\SamuraiCoreApp.Domain.csproj": {
+              "projectPath": "E:\\Development\\Learning\\dotNetCore\\Pluralsight-SamuraiCore\\SamuraiCoreApp.Domain\\SamuraiCoreApp.Domain.csproj"
             }
           }
         }

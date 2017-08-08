@@ -7037,15 +7037,15 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\chrisdevine\\.nuget\\packages\\": {}
+    "C:\\Users\\chris\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\Personal\\Training\\Entity Framework Core - Getting Started\\SamuraiCoreApp\\SamuraiCoreApp.Domain\\SamuraiCoreApp.Domain.csproj",
+      "projectUniqueName": "E:\\Development\\Learning\\dotNetCore\\Pluralsight-SamuraiCore\\SamuraiCoreApp.Domain\\SamuraiCoreApp.Domain.csproj",
       "projectName": "SamuraiCoreApp.Domain",
-      "projectPath": "F:\\Personal\\Training\\Entity Framework Core - Getting Started\\SamuraiCoreApp\\SamuraiCoreApp.Domain\\SamuraiCoreApp.Domain.csproj",
-      "outputPath": "F:\\Personal\\Training\\Entity Framework Core - Getting Started\\SamuraiCoreApp\\SamuraiCoreApp.Domain\\obj\\",
+      "projectPath": "E:\\Development\\Learning\\dotNetCore\\Pluralsight-SamuraiCore\\SamuraiCoreApp.Domain\\SamuraiCoreApp.Domain.csproj",
+      "outputPath": "E:\\Development\\Learning\\dotNetCore\\Pluralsight-SamuraiCore\\SamuraiCoreApp.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "netcoreapp1.1"

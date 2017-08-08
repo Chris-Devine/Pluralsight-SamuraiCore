@@ -7,3 +7,14 @@ F:\Personal\Training\Entity Framework Core - Getting Started\SamuraiCoreApp\Samu
 F:\Personal\Training\Entity Framework Core - Getting Started\SamuraiCoreApp\SamuraiCoreApp.Data\obj\Debug\netcoreapp1.1\SamuraiCoreApp.Data.csprojResolveAssemblyReference.cache
 F:\Personal\Training\Entity Framework Core - Getting Started\SamuraiCoreApp\SamuraiCoreApp.Data\obj\Debug\netcoreapp1.1\SamuraiCoreApp.Data.dll
 F:\Personal\Training\Entity Framework Core - Getting Started\SamuraiCoreApp\SamuraiCoreApp.Data\obj\Debug\netcoreapp1.1\SamuraiCoreApp.Data.pdb
+E:\Development\Learning\dotNetCore\Pluralsight-SamuraiCore\SamuraiCoreApp.Data\bin\Debug\netcoreapp1.1\SamuraiCoreApp.Data.deps.json
+E:\Development\Learning\dotNetCore\Pluralsight-SamuraiCore\SamuraiCoreApp.Data\bin\Debug\netcoreapp1.1\SamuraiCoreApp.Data.runtimeconfig.json
+E:\Development\Learning\dotNetCore\Pluralsight-SamuraiCore\SamuraiCoreApp.Data\bin\Debug\netcoreapp1.1\SamuraiCoreApp.Data.runtimeconfig.dev.json
+E:\Development\Learning\dotNetCore\Pluralsight-SamuraiCore\SamuraiCoreApp.Data\bin\Debug\netcoreapp1.1\SamuraiCoreApp.Data.dll
+E:\Development\Learning\dotNetCore\Pluralsight-SamuraiCore\SamuraiCoreApp.Data\bin\Debug\netcoreapp1.1\SamuraiCoreApp.Data.pdb
+E:\Development\Learning\dotNetCore\Pluralsight-SamuraiCore\SamuraiCoreApp.Data\bin\Debug\netcoreapp1.1\SamuraiCoreApp.Domain.dll
+E:\Development\Learning\dotNetCore\Pluralsight-SamuraiCore\SamuraiCoreApp.Data\bin\Debug\netcoreapp1.1\SamuraiCoreApp.Domain.pdb
+E:\Development\Learning\dotNetCore\Pluralsight-SamuraiCore\SamuraiCoreApp.Data\obj\Debug\netcoreapp1.1\SamuraiCoreApp.Data.csprojResolveAssemblyReference.cache
+E:\Development\Learning\dotNetCore\Pluralsight-SamuraiCore\SamuraiCoreApp.Data\obj\Debug\netcoreapp1.1\SamuraiCoreApp.Data.AssemblyInfo.cs
+E:\Development\Learning\dotNetCore\Pluralsight-SamuraiCore\SamuraiCoreApp.Data\obj\Debug\netcoreapp1.1\SamuraiCoreApp.Data.dll
+E:\Development\Learning\dotNetCore\Pluralsight-SamuraiCore\SamuraiCoreApp.Data\obj\Debug\netcoreapp1.1\SamuraiCoreApp.Data.pdb

@@ -5,3 +5,12 @@ F:\Personal\Training\Entity Framework Core - Getting Started\SamuraiCoreApp\Samu
 F:\Personal\Training\Entity Framework Core - Getting Started\SamuraiCoreApp\SamuraiCoreApp.Domain\obj\Debug\netcoreapp1.1\SamuraiCoreApp.Domain.dll
 F:\Personal\Training\Entity Framework Core - Getting Started\SamuraiCoreApp\SamuraiCoreApp.Domain\obj\Debug\netcoreapp1.1\SamuraiCoreApp.Domain.pdb
 F:\Personal\Training\Entity Framework Core - Getting Started\SamuraiCoreApp\SamuraiCoreApp.Domain\obj\Debug\netcoreapp1.1\SamuraiCoreApp.Domain.csprojResolveAssemblyReference.cache
+E:\Development\Learning\dotNetCore\Pluralsight-SamuraiCore\SamuraiCoreApp.Domain\bin\Debug\netcoreapp1.1\SamuraiCoreApp.Domain.deps.json
+E:\Development\Learning\dotNetCore\Pluralsight-SamuraiCore\SamuraiCoreApp.Domain\bin\Debug\netcoreapp1.1\SamuraiCoreApp.Domain.runtimeconfig.json
+E:\Development\Learning\dotNetCore\Pluralsight-SamuraiCore\SamuraiCoreApp.Domain\bin\Debug\netcoreapp1.1\SamuraiCoreApp.Domain.runtimeconfig.dev.json
+E:\Development\Learning\dotNetCore\Pluralsight-SamuraiCore\SamuraiCoreApp.Domain\bin\Debug\netcoreapp1.1\SamuraiCoreApp.Domain.dll
+E:\Development\Learning\dotNetCore\Pluralsight-SamuraiCore\SamuraiCoreApp.Domain\bin\Debug\netcoreapp1.1\SamuraiCoreApp.Domain.pdb
+E:\Development\Learning\dotNetCore\Pluralsight-SamuraiCore\SamuraiCoreApp.Domain\obj\Debug\netcoreapp1.1\SamuraiCoreApp.Domain.csprojResolveAssemblyReference.cache
+E:\Development\Learning\dotNetCore\Pluralsight-SamuraiCore\SamuraiCoreApp.Domain\obj\Debug\netcoreapp1.1\SamuraiCoreApp.Domain.AssemblyInfo.cs
+E:\Development\Learning\dotNetCore\Pluralsight-SamuraiCore\SamuraiCoreApp.Domain\obj\Debug\netcoreapp1.1\SamuraiCoreApp.Domain.dll
+E:\Development\Learning\dotNetCore\Pluralsight-SamuraiCore\SamuraiCoreApp.Domain\obj\Debug\netcoreapp1.1\SamuraiCoreApp.Domain.pdb

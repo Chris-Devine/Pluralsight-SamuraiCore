@@ -24,4 +24,8 @@
     <ProjectReference Include="..\SamuraiCoreApp.Domain\SamuraiCoreApp.Domain.csproj" />
   </ItemGroup>
 
+	<PropertyGroup>
+		<GenerateRuntimeConfigurationFiles>true</GenerateRuntimeConfigurationFiles>
+	</PropertyGroup>
+
 </Project>

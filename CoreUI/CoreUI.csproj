@@ -13,5 +13,9 @@
     <ProjectReference Include="..\SamuraiCoreApp.Data\SamuraiCoreApp.Data.csproj" />
     <ProjectReference Include="..\SamuraiCoreApp.Domain\SamuraiCoreApp.Domain.csproj" />
   </ItemGroup>
+	
+	<PropertyGroup>
+		<GenerateRuntimeConfigurationFiles>true</GenerateRuntimeConfigurationFiles>
+	</PropertyGroup>
 
 </Project>
